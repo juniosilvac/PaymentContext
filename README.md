@@ -4,4 +4,4 @@ Contexto de pagamento utilizando recursos de OOP, DDD e CQRS utilizando C# como 
 
 ## Referências
 
-Modelando Domínios Rícos; Udemy: 2018.
+André Baltieri. Modelando Domínios Rícos; Udemy: 2018.
